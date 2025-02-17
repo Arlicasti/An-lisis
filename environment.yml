@@ -521,4 +521,3 @@ dependencies:
       - tzlocal==5.2
       - xarray==2024.9.0
       - xarray-einstats==0.8.0
-prefix: /home/jalil/anaconda3/envs/braincharts
